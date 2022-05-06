@@ -1,9 +1,11 @@
 ## Oiii, Eu sou a Samara Bastos!
 
 
-👩‍🎓 Formada em Administração de Empresas e curso minha segunda graduação em Analise e Desenvolvimento de Sistemas
+👩‍🎓 Formada em Administração de Empresas e cursando minha segunda graduação em Análise e Desenvolvimento de Sistemas
 
-💻 Estudando Desenvolvimento Web na Trybe - Turma 23
+💻 Estudando Desenvolvimento Web na  <a href="https://www.betrybe.com" target="_blank"> Trybe</a> - Turma 23
+
+Repositório <a href="https://github.com/SamaraBastos/trybe-exercicios" target="_blank"> trybe-exercicios</a> com exercicios de cada bloco do curso.
 
  ##
     
