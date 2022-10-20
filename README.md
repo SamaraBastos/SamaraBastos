@@ -3,7 +3,7 @@
 
 👩‍🎓 Formada em Administração de Empresas e cursando minha segunda graduação em Análise e Desenvolvimento de Sistemas
 
-💻 Estudando Desenvolvimento Web na  <a href="https://www.betrybe.com" target="_blank"> Trybe</a> - Turma 24
+💻 Estudando Desenvolvimento Web na  <a href="https://www.betrybe.com" target="_blank"> Trybe</a> - Turma 25
 
 Repositório <a href="https://github.com/SamaraBastos/trybe-exercicios" target="_blank"> trybe-exercicios</a> com exercicios de cada bloco do curso.
 
